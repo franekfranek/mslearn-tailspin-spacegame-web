@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#test
 pool:
   vmImage: 'MyAgentPool'
   demands:
